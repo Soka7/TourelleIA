@@ -1,4 +1,4 @@
-![Tourelle](arduino_logo_icon_170518.png)
+![Tourelle](RN.odg)
 
 # Tourelle
 
