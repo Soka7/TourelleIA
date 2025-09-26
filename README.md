@@ -8,12 +8,12 @@
 
 ## 🚀Objectifs
 
--**Reseau neuronal fait sans librairie.**
--**Fabriquer la tourelle avec arduino.**
--**Faire le code pour les mouvements de la tourelle.**
--**Faire le code pour faire fonctionner le supersonic sensor.**
--**Faire le code pour faire fonctionner la camera.**
--**Faire le code pour convertir l'image en array pour le reseau neuronal.**
+-**Reseau neuronal fait sans librairie.**\n
+-**Fabriquer la tourelle avec arduino.**\n
+-**Faire le code pour les mouvements de la tourelle.**\n
+-**Faire le code pour faire fonctionner le supersonic sensor.**\n
+-**Faire le code pour faire fonctionner la camera.**\n
+-**Faire le code pour convertir l'image en array pour le reseau neuronal.**\n
 -**Faire le code pour envoyer la photo au reseau neuronal.**
 
 ## 🎯 Infos
