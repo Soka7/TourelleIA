@@ -1,5 +1,7 @@
 ![Tourelle](Logo.png)
 
+Fait avec Microsoft Paint.
+
 # Tourelle
 
 **Une tourelle intelligente ?**
@@ -28,7 +30,6 @@ pip install -r requirements.txt
 ```bash
 https://github.com/mhucka/readmine/blob/main/README.md?plain=1
 ```
-**J'ai fait la banniere avec Microsoft Paint.**
 
 **Professeur: [E.DALDEGAN](https://github.com/edaldegan)**
 -----------------------------------------------------------
