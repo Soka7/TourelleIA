@@ -22,7 +22,7 @@ class Reseau:
 Reseau1 = Reseau()
 
 Reseau1.AddOrigin()
-Reseau1.AjouterNeurone() #Le premier neurone n'en est pas un.
+Reseau1.AjouterNeurone()
 for _ in range(15):
     Reseau1.AjouterNeurone()
 
