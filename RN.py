@@ -48,6 +48,7 @@ class Reseau:
 
 Reseau1 = Reseau()
 
+#Creer tableau
 Reseau1.AddOrigin()
 for _ in range(6):
     Reseau1.AjouterNeurone()
