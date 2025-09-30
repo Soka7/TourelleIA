@@ -1,4 +1,4 @@
-<img src="77.gif" width="250"/> <img src="Logo.png" width="600"/>
+<img src="77.gif" width="250"/> <img src="Logo.png" width="550"/>
 
 Fait avec Microsoft Paint.
 
