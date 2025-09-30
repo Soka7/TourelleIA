@@ -1,10 +1,12 @@
-<img src="77.gif" width="250"/> <img src="Logo.png" width="550"/>
+<img src="Logo.png" width="1000"/>
 
 Fait avec Microsoft Paint.
 
 # Tourelle
 
 **Une tourelle intelligente ?**
+
+<img src="77.gif" width="250"/>
 
 **Developed by [Soka7](https://github.com/Soka7)**
 
