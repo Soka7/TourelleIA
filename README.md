@@ -22,6 +22,8 @@ Fait avec Microsoft Paint.
 
 <img src="Projet.png" width="250"/>
 
+Fait avec ChatGPT.
+
 ## 🎯 Infos
 
 ### Basiques
