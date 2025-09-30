@@ -1,4 +1,4 @@
-<img src="Logo.png" width="1000"/>
+<img src="Logo_.png" width="1000"/>
 
 Fait avec Microsoft Paint.
 
