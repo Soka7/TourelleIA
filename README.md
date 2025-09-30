@@ -19,7 +19,7 @@ Fait avec Microsoft Paint.
 - **Faire le code pour convertir l'image en array pour le reseau neuronal.**
 - **Faire le code pour envoyer la photo au reseau neuronal.**
 
-![Tourelle](Tutu.gif)
+![Gif](Tutu.gif)
 
 ## 🎯 Infos
 
