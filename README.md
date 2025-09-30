@@ -1,10 +1,12 @@
-![Tourelle](Logo.png)
+<img src="Logo.png" width="1000"/>
 
 Fait avec Microsoft Paint.
 
 # Tourelle
 
 **Une tourelle intelligente ?**
+
+<img src="77.gif" width="250"/>
 
 **Developed by [Soka7](https://github.com/Soka7)**
 
@@ -17,6 +19,10 @@ Fait avec Microsoft Paint.
 - **Faire le code pour faire fonctionner la camera.**
 - **Faire le code pour convertir l'image en array pour le reseau neuronal.**
 - **Faire le code pour envoyer la photo au reseau neuronal.**
+
+<img src="Projet.png" width="250"/>
+
+Fait avec ChatGPT.
 
 ## 🎯 Infos
 
