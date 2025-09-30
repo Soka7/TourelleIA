@@ -1,4 +1,4 @@
-<img src="Logo.png" width="250"/>
+![Gif](Logo.png)
 <img src="Projet.png" width="250"/>
 
 
