@@ -1,4 +1,5 @@
 ![Tourelle](Logo.png)
+![Tourelle](Projet.png)
 
 Fait avec Microsoft Paint.
 
@@ -17,6 +18,8 @@ Fait avec Microsoft Paint.
 - **Faire le code pour faire fonctionner la camera.**
 - **Faire le code pour convertir l'image en array pour le reseau neuronal.**
 - **Faire le code pour envoyer la photo au reseau neuronal.**
+
+![Tourelle](Tutu.gif)
 
 ## 🎯 Infos
 

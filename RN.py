@@ -26,6 +26,9 @@ class Reseau:
             
     def AddOrigin(self):
         self.reseau.append(["Or"])
+        
+    def Lier(self):
+        pass
 
 Reseau1 = Reseau()
 
