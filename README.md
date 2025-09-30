@@ -1,5 +1,5 @@
 ![Tourelle](Logo.png)
-![Tourelle](Projet.png)
+![Projet](Projet.png)
 
 Fait avec Microsoft Paint.
 
