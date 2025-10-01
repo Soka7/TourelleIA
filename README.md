@@ -37,6 +37,11 @@ pip install -r requirements.txt
 https://github.com/mhucka/readmine/blob/main/README.md?plain=1
 ```
 
+### Video explicative.
+```bash
+https://www.youtube.com/watch?v=gPVVsw2OWdM
+```
+
 **Professeur: [E.DALDEGAN](https://github.com/edaldegan)**
 -----------------------------------------------------------
 **[.](https://www.youtube.com/watch?v=ujEph5vFwmc&list=RDujEph5vFwmc&start_radio=1)**
