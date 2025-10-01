@@ -7,6 +7,7 @@ class Reseau:
         self.reseau = []
         self.A = ""
         self.B = ""
+        self.poids = 0
     
     def AjouterNeurone(self):
         self.reseau.append([al[0]])
@@ -20,6 +21,7 @@ class Reseau:
         self.reseau.append(["Or"])
         
     def Lier(self):
+        poidsA = PoidsAleatoire()
         #Lier A en fonction de B.(Plan x, y avec origine en haut a gauche)
         compteur = 0
         for Neu in self.reseau[0]:
@@ -31,7 +33,7 @@ class Reseau:
             if Neur[0] == self.B:
                 for ran in range(len(Neur)):
                     if self.reseau[0][ran] == Lie:
-                        Neur[ran] = 1
+                        Neur[ran] = poidsA
         
         #Lier B en fonction de A.(Plan x, y avec origine en haut a gauche)          
         compteur = 0
@@ -44,9 +46,12 @@ class Reseau:
             if Neur[0] == self.A:
                 for ran in range(len(Neur)):
                     if self.reseau[0][ran] == Lie:
-                        Neur[ran] = 1
+                        Neur[ran] = poidsA
 
 Reseau1 = Reseau()
+
+def PoidsAleatoire():
+    return(random.randint(-50, 50))
 
 #Creer tableau
 Reseau1.AddOrigin()
